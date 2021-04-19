@@ -1,3 +1,3 @@
-# React Firebase Super Chat
+# Scar Mini
 
 A mini version of Scar that you can embed 
